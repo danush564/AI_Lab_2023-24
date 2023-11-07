@@ -47,6 +47,7 @@ To write a python program to implement Breadth first Search.
 
 ### Output:
 
+![image](https://github.com/danush564/AI_Lab_2023-24/assets/98585166/8a383368-285a-4a68-b6b4-252123bba90f)
 
 
 ### Result:
